@@ -1,4 +1,4 @@
-#include "KellyKLS_Serial.h"
+#include "KellyKLS_Serial/KellyKLS_Serial.h"
 
 KellyKLS_Serial klsController;
 
